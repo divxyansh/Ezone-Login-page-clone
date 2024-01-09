@@ -1,0 +1,162 @@
+title{
+    position: relative;
+    margin: 50px 50px 0 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.right-img{
+    display:block;
+    margin-top: 0%;
+}
+#banner {
+    height: 400px;
+    padding-top: 150px;
+    text-align: center;
+    background: url(./digital-hand-touching-technology-polygonal-wireframe-art_201274-495.avif) no-repeat;
+    background-image: url(./digital-hand-touching-technology-polygonal-wireframe-art_201274-495.avif);
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.4;
+    font-weight: normal;
+    background-size: cover;
+    display: block;
+}
+body{
+    background-color: beige;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    font-size: 1em;
+    line-height: 1.4;
+    font-weight: normal;
+    color: #212529;
+    text-align: left;
+}
+#registration-container{
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: left;
+    display: block;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+.button1{
+    border-radius: 3px;
+    background: #ed027b;
+    color: #fff;
+    border: 0;
+    font-size: 12px;
+    line-height: 12px;
+    padding: 10px 20px;
+    font-weight: 500;
+    transition: all 0.3s;
+    outline: none;
+    min-width: 120px;
+    box-shadow: none;
+    text-align: center;
+}
+button{
+    padding-block: 1px;
+    padding-inline: 6px;
+    text-transform: none;
+    overflow: visible;
+    margin: 0;
+    font-family: inherit;
+    box-sizing: border-box;
+    text-align: center;
+    vertical-align: middle;
+}
+.btn{
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    user-select: none;
+}
+.form1 ul{
+    list-style: none;
+}
+
+
+#banner .logo{
+    margin-bottom: 40px;
+}
+div{
+    display: block;
+}
+#login .button1{
+    font-weight: bold;
+    font-size: 12px;
+}
+* {
+    box-sizing: border-box;
+}
+#login{
+    width: 570px;
+    background: #fff;
+    margin: 0px auto;
+    padding: 35px 40px;
+    position: relative;
+    top: -70px;
+    box-sizing: border-box;
+    display: block;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.4;
+    font-weight: normal;
+
+}
+#content-wrap{
+    min-width: 320px;
+    left: 0;
+    position: relative;
+    overflow-x: hidden;
+}
+.container{
+    max-width: 720px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+}
+h4{
+    font-size: 24px;
+    line-height: 29px;
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgba(0,0,0,0.7);
+    text-rendering: optimizeLegibility;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+img{
+    width: 200px;
+    border-style: none;
+    vertical-align: middle;
+    max-width: 100%;
+    height: auto;
+    overflow: clip;
+    text-align: center;
+    font-size: 1em;
+    font-weight: normal;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    line-height: inherit;
+    color: #00bfe7;
+}
